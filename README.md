@@ -456,5 +456,5 @@ Bash и основные команды.
 *tbd*
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
-[1]:https://img.shields.io/badge/status-ended-red
-[2]:https://progress-bar.dev/100/
+[1]:https://img.shields.io/badge/status-announced-blue
+[2]:https://progress-bar.dev/0/
