@@ -4,7 +4,7 @@
 
 ## [Канал курса в telegram #tbd]()
 
-## [Таблица с результатами по курсу #tbd]()
+## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1Uq64G57-YaH_k5zItIrmAuB3o0W-kDZ0NvCaGfApURk/edit?usp=sharing)
 
 # Аннотация
 
