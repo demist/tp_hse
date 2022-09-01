@@ -6,6 +6,8 @@
 
 ## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1Uq64G57-YaH_k5zItIrmAuB3o0W-kDZ0NvCaGfApURk/edit?usp=sharing)
 
+## [Перейти к плану](https://github.com/demist/tp_hse_2022#%D0%BF%D0%BE%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BB%D0%B0%D0%BD)
+
 # Аннотация
 
 *Курс про все, что связано с созданием ПО, кроме непосредственно написания программного кода*
