@@ -2,7 +2,7 @@
 
 **1 модуль, 2022/2023 учебный год, ВШЭ ВШБ ДБИ**
 
-## [Канал курса в telegram #tbd]()
+## [Канал курса в telegram](https://t.me/tp_hse_2022)
 
 ## [Рабочая ведомость по курсу](https://docs.google.com/spreadsheets/d/1Uq64G57-YaH_k5zItIrmAuB3o0W-kDZ0NvCaGfApURk/edit?usp=sharing)
 
