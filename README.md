@@ -39,7 +39,13 @@
 		- Или [вот эту](https://rextester.com/l/bash_online_compiler)
 	- Если вы остановились на `в.2` или `в.3`, то вам еще необходимо установить `Git`
 		- Скачать его можно [тут](https://git-scm.com/download/win)
-- Если у вас *MacOS* - ничего делать не нужно, у вас есть уже приложение [*Terminal*](https://ru.wikipedia.org/wiki/Terminal_(macOS))
+- Если у вас *MacOS* - у вас есть уже приложение [*Terminal*](https://ru.wikipedia.org/wiki/Terminal_(macOS))
+	- *Очень желательно, кроме того*, установить `brew`
+		- Инструкция [тут](https://brew.sh/)
+			- Достаточно в Terminal вставить команду `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+	- После установки `brew` - установить `Git`
+		- Инструкция [тут](https://git-scm.com/download/mac)
+			- Достаточно в Terminal вставить команду `brew install git`
 - Если у вас *Linux* (любой дистрибутив) - ничего делать не нужно, у вас уже есть приложение *Терминал* / *Эмулятор терминала* / "что-то подобное" - точно есть во всех дистрибутивах, просто поищите
 
 
