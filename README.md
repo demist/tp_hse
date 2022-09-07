@@ -33,6 +33,10 @@
 			- [Одна из множества инструкций, как развернуть в виртуальной машине](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 	- Установить себе WSL (*Windows Subsystem for Linux*)
 		- [Одна из инструкций, как это сделать](https://docs.microsoft.com/ru-ru/windows/wsl/install)
+	- Использовать online-консоль (*наименее приоритетный вариант, использовать только если другое не получилось*)
+		- Например, [вот эту](https://www.onlinegdb.com/online_bash_shell)
+		- Или [вот эту](https://replit.com/languages/bash)
+		- Или [вот эту](https://rextester.com/l/bash_online_compiler)
 - Если у вас *MacOS* - ничего делать не нужно, у вас есть уже приложение [*Terminal*](https://ru.wikipedia.org/wiki/Terminal_(macOS))
 - Если у вас *Linux* (любой дистрибутив) - ничего делать не нужно, у вас уже есть приложение *Терминал* / *Эмулятор терминала* / "что-то подобное" - точно есть во всех дистрибутивах, просто поищите
 
