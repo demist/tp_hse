@@ -42,10 +42,10 @@
 - Если у вас *MacOS* - у вас есть уже приложение [*Terminal*](https://ru.wikipedia.org/wiki/Terminal_(macOS))
 	- *Очень желательно, кроме того*, установить `brew`
 		- Инструкция [тут](https://brew.sh/)
-			- Достаточно в Terminal вставить команду `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+			- Достаточно в *Terminal* вставить команду `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 	- После установки `brew` - установить `Git`
 		- Инструкция [тут](https://git-scm.com/download/mac)
-			- Достаточно в Terminal вставить команду `brew install git`
+			- Достаточно в *Terminal* вставить команду `brew install git`
 - Если у вас *Linux* (любой дистрибутив) - у вас уже есть приложение *Терминал* / *Эмулятор терминала* / "что-то подобное" - точно есть во всех дистрибутивах, просто поищите
 	- Нужно установить `Git`
 		- Достаточно в *Терминале* набрать команду `sudo apt-get install git`
