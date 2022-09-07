@@ -361,6 +361,18 @@
 - показываем условные переходы и циклы
 - пишем простую функцию расчета факториала
 
+> [Хороший курс по Python](https://stepik.org/course/58852/promo)
+
+> [Python First Steps](https://realpython.com/python-first-steps/)
+
+> [Python for Beginners](https://www.python.org/about/gettingstarted/)
+
+> [Еще разные туториалы](https://www.tutorialspoint.com/python/python_quick_guide.htm)
+
+> [Консоль Python прямо на сайте](https://trinket.io/console)
+
+> [Документация по Python](https://www.python.org/doc/)
+
 ##  Семинар 2 *(неделя 2)*
 
 **Базовые инструменты разработки ПО**
