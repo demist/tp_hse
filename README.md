@@ -27,7 +27,7 @@
 
 - Если у вас *Windows*, варианты:
 	- Поставить себе **Linux** - наиболее удобный способ
-		- Рекомендуем использовать дистрибутив *Ubuntu 22.04.01 LTS* (скачать можно [тут](https://ubuntu.com/download/desktop))
+		- Рекомендуем использовать дистрибутив *Ubuntu 22.04.1 LTS* (скачать можно [тут](https://ubuntu.com/download/desktop))
 		- Вы можете либо поставить *Ubuntu* второй системой, либо же развернуть в виртуальной машине
 			- [Одна из множества инструкций, как поставить второй системой](https://www.tecmint.com/install-ubuntu-alongside-with-windows-dual-boot/)
 			- [Одна из множества инструкций, как развернуть в виртуальной машине](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
