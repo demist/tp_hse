@@ -162,13 +162,7 @@
 	- Этап сдачи задачи
 	- Подготовка к выпуску версии
 
-> [TravisCI](https://www.travis-ci.com/)
-
-> [TeamCity](https://www.jetbrains.com/teamcity/)
-
-> [GitHub Actions](https://github.com/features/actions)
-
-> [Jenkins](https://www.jenkins.io/)
+> [TravisCI](https://www.travis-ci.com/), [TeamCity](https://www.jetbrains.com/teamcity/), [GitHub Actions](https://github.com/features/actions), [Jenkins](https://www.jenkins.io/)
 
 ## Лекция 5
 
