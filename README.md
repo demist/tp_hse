@@ -82,6 +82,8 @@
 -  Сопровождение 
 -  Вывод из эксплуатации
 
+> Почитать подробнее про MVP можно [тут](https://www.productplan.com/glossary/minimum-viable-product/), [тут](https://vc.ru/marketing/139040-sekret-uspeshnyh-startapov-minimum-viable-product-chto-eto-i-kak-ego-sozdayut), [тут](https://habr.com/ru/company/productstar/blog/508892/) и [тут](https://trends.rbc.ru/trends/innovation/60dc23419a7947caa5598064)
+
 ## Лекция 2
 
 *Неделя 1*
