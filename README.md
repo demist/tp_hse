@@ -470,7 +470,7 @@ Bash и основные команды.
 	- С открытым ответом (нужно написать развернутый ответ словами)
 - Вопросы будут только по материалам лекций *№1 - №6*
 
-##  Техническое задание №1 (ТЗ1)
+## :white_check_mark: Техническое задание №1 (ТЗ1)
 
 **Пишем простую программу на Python**
 
@@ -673,8 +673,8 @@ Bash и основные команды.
 | :white_check_mark: 2 | [Основные диаграммы UML](https://github.com/demist/tp_hse_2022/blob/main/slides/lec3.pdf) + [CI/CD/CD](https://github.com/demist/tp_hse_2022/blob/main/slides/lec4.pdf) | Базовые инструменты разработки ПО | **ТЗ1**: Пишем простую программу на Python | |
 | :white_check_mark: 3 | [Отладка ПО, ч.1: работа с ошибками ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec5.pdf) + [Отладка ПО, ч.2: техники отладки](https://github.com/demist/tp_hse_2022/blob/main/slides/lec6.pdf) | Инструменты отладки | | |
 | :white_check_mark: 4 | **КР** + [Управление качеством ПО, ч.1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec7.pdf) + [Управление качеством ПО, ч.2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec8.pdf) | Тестирование ПО | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD | **ТЗ1**: Пишем простую программу на Python |
-| :fire: 5 | [Принципы проектирования ПО, часть 1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec9.pdf) + [Принципы проектирования ПО, часть 2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec10.pdf) | Диаграммы UML | **ТЗ3**: Проектируем небольшое приложение по требованиям | |
-| 6 | [Архитектурные паттерны](https://github.com/demist/tp_hse_2022/blob/main/slides/lec11.pdf) + [Методологии разработки ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec12.pdf) | Практика проектирования | | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD |
+| :white_check_mark: 5 | [Принципы проектирования ПО, часть 1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec9.pdf) + [Принципы проектирования ПО, часть 2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec10.pdf) | Диаграммы UML | **ТЗ3**: Проектируем небольшое приложение по требованиям | |
+| :fire: 6 | [Архитектурные паттерны](https://github.com/demist/tp_hse_2022/blob/main/slides/lec11.pdf) + [Методологии разработки ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec12.pdf) | Практика проектирования | | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD |
 | 7 | **ЭКЗ** | | | **ТЗ3**: Проектируем небольшое приложение по требованиям |
 
 # Правила оценивания
@@ -683,4 +683,4 @@ Bash и основные команды.
 
 [0]:https://img.shields.io/badge/year-2022%2F2023-yellow
 [1]:https://img.shields.io/badge/status-ongoing-green
-[2]:https://progress-bar.dev/67/
+[2]:https://progress-bar.dev/83/
