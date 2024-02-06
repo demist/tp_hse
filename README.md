@@ -694,5 +694,5 @@ Bash и основные команды.
 **Финальная оценка** = *Математическое округление* (0.2\*`КР` + 0.15\*`ТЗ1` + 0.15\*`ТЗ2` + 0.15\*`ТЗ3` + 0.35\*`ЭКЗ`)
 
 [0]:https://img.shields.io/badge/year-2023%2F2024-yellow
-[1]:https://img.shields.io/badge/status-pending-gray
+[1]:https://img.shields.io/badge/status-pending-pink
 [2]:https://progress-bar.dev/0/
