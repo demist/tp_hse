@@ -19,6 +19,11 @@
 
 # Лекционный материал 
 
+## Записи лекций
+
+| № | Тема | Ссылка на запись | Ссылка на презентацию(и) | Контрольный тест | 
+| :---: | :---: | :---: | :---: | :---: |
+
 ## План лекций
 
 ### Лекция 0 
@@ -683,13 +688,13 @@ Bash и основные команды.
 
 | Неделя | Лекции | Семинары | Выдача заданий | Сдача заданий | 
 | :---: | :---: | :---: | :---: | :---: |
-| :white_check_mark: 1 | [Организационное](https://github.com/demist/tp_hse_2022/blob/main/slides/intro.pdf) + [Этапы развития проекта](https://github.com/demist/tp_hse_2022/blob/main/slides/lec1.pdf) + [Базовые понятия о языках программирования](https://github.com/demist/tp_hse_2022/blob/main/slides/lec2.pdf) | Основы Python | *Установить необходимое ПО для курса на свои машины* | |
-| :white_check_mark: 2 | [Основные диаграммы UML](https://github.com/demist/tp_hse_2022/blob/main/slides/lec3.pdf) + [CI/CD/CD](https://github.com/demist/tp_hse_2022/blob/main/slides/lec4.pdf) | Базовые инструменты разработки ПО | **ТЗ1**: Пишем простую программу на Python | |
-| :white_check_mark: 3 | [Отладка ПО, ч.1: работа с ошибками ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec5.pdf) + [Отладка ПО, ч.2: техники отладки](https://github.com/demist/tp_hse_2022/blob/main/slides/lec6.pdf) | Инструменты отладки | | |
-| :white_check_mark: 4 | **КР** + [Управление качеством ПО, ч.1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec7.pdf) + [Управление качеством ПО, ч.2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec8.pdf) | Тестирование ПО | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD | **ТЗ1**: Пишем простую программу на Python |
-| :white_check_mark: 5 | [Принципы проектирования ПО, часть 1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec9.pdf) + [Принципы проектирования ПО, часть 2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec10.pdf) | Диаграммы UML | **ТЗ3**: Проектируем небольшое приложение по требованиям | |
-| :white_check_mark: 6 | [Архитектурные паттерны](https://github.com/demist/tp_hse_2022/blob/main/slides/lec11.pdf) + [Методологии разработки ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec12.pdf) | Практика проектирования | | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD |
-| :white_check_mark: 7 | **ЭКЗ** | | | **ТЗ3**: Проектируем небольшое приложение по требованиям |
+| 1 | [Организационное](https://github.com/demist/tp_hse_2022/blob/main/slides/intro.pdf) + [Этапы развития проекта](https://github.com/demist/tp_hse_2022/blob/main/slides/lec1.pdf) + [Базовые понятия о языках программирования](https://github.com/demist/tp_hse_2022/blob/main/slides/lec2.pdf) | Основы Python | *Установить необходимое ПО для курса на свои машины* | |
+| 2 | [Основные диаграммы UML](https://github.com/demist/tp_hse_2022/blob/main/slides/lec3.pdf) + [CI/CD/CD](https://github.com/demist/tp_hse_2022/blob/main/slides/lec4.pdf) | Базовые инструменты разработки ПО | **ТЗ1**: Пишем простую программу на Python | |
+| 3 | [Отладка ПО, ч.1: работа с ошибками ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec5.pdf) + [Отладка ПО, ч.2: техники отладки](https://github.com/demist/tp_hse_2022/blob/main/slides/lec6.pdf) | Инструменты отладки | | |
+| 4 | **КР** + [Управление качеством ПО, ч.1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec7.pdf) + [Управление качеством ПО, ч.2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec8.pdf) | Тестирование ПО | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD | **ТЗ1**: Пишем простую программу на Python |
+| 5 | [Принципы проектирования ПО, часть 1](https://github.com/demist/tp_hse_2022/blob/main/slides/lec9.pdf) + [Принципы проектирования ПО, часть 2](https://github.com/demist/tp_hse_2022/blob/main/slides/lec10.pdf) | Диаграммы UML | **ТЗ3**: Проектируем небольшое приложение по требованиям | |
+| 6 | [Архитектурные паттерны](https://github.com/demist/tp_hse_2022/blob/main/slides/lec11.pdf) + [Методологии разработки ПО](https://github.com/demist/tp_hse_2022/blob/main/slides/lec12.pdf) | Практика проектирования | | **ТЗ2**: Добавляем тесты и разворачиваем простейший CI/CD |
+| 7 | **ЭКЗ** | | | **ТЗ3**: Проектируем небольшое приложение по требованиям |
 
 # Правила оценивания
 
