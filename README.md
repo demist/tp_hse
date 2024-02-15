@@ -24,18 +24,18 @@
 | № | Тема | Ссылка на запись | Ссылка на презентацию(и) | Контрольный тест | 
 | :---: | :---: | :---: | :---: | :---: |
 | 0 | Организационное | | | *нет теста* |
-| 1 | Этапы развития проекта | | | Тест №1 |
-| 2 | Базовые понятия о языках программирования | | | Тест №2 |
-| 3 | Основные диаграммы UML | | | Тест №3 |
-| 4 | CI/CD/CD | | | Тест №4 |
-| 5 | Отладка ПО, ч.1: работа с ошибками ПО | | | Тест №5 |
-| 6 | Отладка ПО, ч.2: техники отладки | | | Тест №6 |
-| 7 | Управление качеством ПО, ч.1 | | | Тест №7 |
-| 8 | Управление качеством ПО, ч.2 | | | Тест №8 |
-| 9 | Принципы проектирования ПО, ч.1 | | | Тест №9 |
-| 10 | Принципы проектирования ПО, ч.2 | | | Тест №10 |
-| 11 | Архитектурные паттерны | | | Тест №11 |
-| 12 | Методологии разработки ПО | | | Тест №12 |
+| 1 | Этапы развития проекта | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec1.pdf) | Тест №1 |
+| 2 | Базовые понятия о языках программирования | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №2 |
+| 3 | Основные диаграммы UML | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №3 |
+| 4 | CI/CD/CD | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №4 |
+| 5 | Отладка ПО, ч.1: работа с ошибками ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №5 |
+| 6 | Отладка ПО, ч.2: техники отладки | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec6.pdf) | Тест №6 |
+| 7 | Управление качеством ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №7 |
+| 8 | Управление качеством ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №8 |
+| 9 | Принципы проектирования ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №9 |
+| 10 | Принципы проектирования ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №10 |
+| 11 | Архитектурные паттерны | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №11 |
+| 12 | Методологии разработки ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) | Тест №12 |
 
 ## Содержание лекций
 
