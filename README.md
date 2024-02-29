@@ -27,7 +27,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 0 | Организационное | | | *нет теста* |
 | 1 | Этапы развития проекта | [YouTube](https://youtu.be/-QJpDnzwSwA) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec1.pdf) | Тест №1 |
-| 2 | Базовые понятия о языках программирования | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №2 |
+| 2 | Базовые понятия о языках программирования | [YouTube](https://www.youtube.com/watch?v=uCq1cTMrzWs) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №2 |
 | 3 | Основные диаграммы UML | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №3 |
 | 4 | CI/CD/CD | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №4 |
 | 5 | Отладка ПО, ч.1: работа с ошибками ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №5 |
