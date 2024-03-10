@@ -459,11 +459,17 @@ Bash и основные команды.
 
 Структура '/home/input_dir`: 
 - input_dir
-- a.txt
-- dir2
-	- b.txt
- - dir3
-   	- c.txt
+	- a.txt
+	- dir2
+		- b.txt
+	 - dir3
+   		- c.txt
+
+Тогда после работы вашего скрипта структура `/home/output_dir` должна быть следующая: 
+- output_dir
+	- a.txt
+ 	- b.txt
+  	- c.txt 
 
 ### Требования и критерии оценки
 
