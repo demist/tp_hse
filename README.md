@@ -457,7 +457,7 @@ Bash и основные команды.
 
 `/home/output_dir` изначально пустая.
 
-Структура '/home/input_dir`: 
+Структура `/home/input_dir`: 
 - input_dir
 	- a.txt
 	- dir2
