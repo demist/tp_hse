@@ -28,9 +28,9 @@
 | 0 | Организационное | | | *нет теста* |
 | 1 | Этапы развития проекта | [YouTube](https://youtu.be/-QJpDnzwSwA) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec1.pdf) | Тест №1 |
 | 2 | Базовые понятия о языках программирования | [YouTube](https://www.youtube.com/watch?v=uCq1cTMrzWs) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №2 |
-| 3 | Основные диаграммы UML | [YouTube, ч.1](https://www.youtube.com/watch?v=CTWDKuQBb84) [YouTube, ч.2](https://www.youtube.com/watch?v=zFTXtkBTmzk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №3 |
+| 3 | Основные диаграммы UML | [YouTube, 1/2](https://www.youtube.com/watch?v=CTWDKuQBb84) [YouTube, 2/2](https://www.youtube.com/watch?v=zFTXtkBTmzk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №3 |
 | 4 | CI/CD/CD | [YouTube](https://www.youtube.com/watch?v=I6NVeuzzSyY) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №4 |
-| 5 | Отладка ПО, ч.1: работа с ошибками ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №5 |
+| 5 | Отладка ПО, ч.1: работа с ошибками ПО | [YouTube, 1/2](https://www.youtube.com/watch?v=6StbXboJJCg) [YouTube, 2/2](https://www.youtube.com/watch?v=HuYGaVWVJd0)| [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №5 |
 | 6 | Отладка ПО, ч.2: техники отладки | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec6.pdf) | Тест №6 |
 | 7 | Управление качеством ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №7 |
 | 8 | Управление качеством ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №8 |
