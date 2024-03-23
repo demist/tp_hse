@@ -1,4 +1,4 @@
-![year][0] ![status][1] ![progress][2]
+![image](https://github.com/demist/tp_hse/assets/7072212/4c54ca38-5b79-45ed-949e-c1c3c15929dc)![year][0] ![status][1] ![progress][2]
 
 **4 модуль, 2023/2024 учебный год, ВШЭ ВШБ ДБИ**
 
@@ -23,21 +23,23 @@
 
 [Плейлист с лекциями на YouTube](https://www.youtube.com/playlist?list=PLSFRPndr3MpzgdGyIiBA6WgUyUKg38RDC)
 
-| № | Тема | Ссылка на запись | Ссылка на презентацию(и) | Контрольный тест | 
+*Курсивом* выделены предварительные даты, **жирным** - фактические.
+
+| № | Тема | Ссылка на запись | Ссылка на презентацию(и) | Контрольный тест | Дата публикации теста | Дата и время закрытия теста |
 | :---: | :---: | :---: | :---: | :---: |
 | 0 | Организационное | | | *нет теста* |
-| 1 | Этапы развития проекта | [YouTube](https://youtu.be/-QJpDnzwSwA) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec1.pdf) | Тест №1 |
-| 2 | Базовые понятия о языках программирования | [YouTube](https://www.youtube.com/watch?v=uCq1cTMrzWs) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №2 |
-| 3 | Основные диаграммы UML | [YouTube, 1/2](https://www.youtube.com/watch?v=CTWDKuQBb84) [YouTube, 2/2](https://www.youtube.com/watch?v=zFTXtkBTmzk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №3 |
-| 4 | CI/CD/CD | [YouTube](https://www.youtube.com/watch?v=I6NVeuzzSyY) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №4 |
-| 5 | Отладка ПО, ч.1: работа с ошибками ПО | [YouTube, 1/2](https://www.youtube.com/watch?v=6StbXboJJCg) [YouTube, 2/2](https://www.youtube.com/watch?v=HuYGaVWVJd0)| [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №5 |
-| 6 | Отладка ПО, ч.2: техники отладки | [YouTube](https://www.youtube.com/watch?v=0RHzG8SBM9U) [YouTube, дополнение](https://www.youtube.com/watch?v=xgDl2NX0mSI) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec6.pdf) | Тест №6 |
-| 7 | Управление качеством ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №7 |
-| 8 | Управление качеством ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №8 |
-| 9 | Принципы проектирования ПО, ч.1 | [YouTube](https://www.youtube.com/watch?v=PMVgPAlZQGc) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №9 |
-| 10 | Принципы проектирования ПО, ч.2 | [YouTube](https://www.youtube.com/watch?v=ZgDWK9PGxuU) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №10 |
-| 11 | Архитектурные паттерны | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №11 |
-| 12 | Методологии разработки ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) | Тест №12 |
+| 1 | Этапы развития проекта | [YouTube](https://youtu.be/-QJpDnzwSwA) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec1.pdf) | Тест №1 | *7 апреля* | *14 апреля 18:00* |
+| 2 | Базовые понятия о языках программирования | [YouTube](https://www.youtube.com/watch?v=uCq1cTMrzWs) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec2.pdf) | Тест №1 | *7 апреля* | *14 апреля 18:00* |
+| 3 | Основные диаграммы UML | [YouTube, 1/2](https://www.youtube.com/watch?v=CTWDKuQBb84) [YouTube, 2/2](https://www.youtube.com/watch?v=zFTXtkBTmzk) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec3.pdf) | Тест №2 | *14 апреля* | *21 апреля в 18:00* |
+| 4 | CI/CD/CD | [YouTube](https://www.youtube.com/watch?v=I6NVeuzzSyY) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №2 | *14 апреля* | *21 апреля в 18:00* |
+| 5 | Отладка ПО, ч.1: работа с ошибками ПО | [YouTube, 1/2](https://www.youtube.com/watch?v=6StbXboJJCg) [YouTube, 2/2](https://www.youtube.com/watch?v=HuYGaVWVJd0)| [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №3 | *21 апреля* | *28 апреля в 18:00* |
+| 6 | Отладка ПО, ч.2: техники отладки | [YouTube](https://www.youtube.com/watch?v=0RHzG8SBM9U) [YouTube, дополнение](https://www.youtube.com/watch?v=xgDl2NX0mSI) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec6.pdf) | Тест №3 | *21 апреля* | *28 апреля в 18:00* |
+| 7 | Управление качеством ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
+| 8 | Управление качеством ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
+| 9 | Принципы проектирования ПО, ч.1 | [YouTube](https://www.youtube.com/watch?v=PMVgPAlZQGc) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
+| 10 | Принципы проектирования ПО, ч.2 | [YouTube](https://www.youtube.com/watch?v=ZgDWK9PGxuU) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
+| 11 | Архитектурные паттерны | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec11.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
+| 12 | Методологии разработки ПО | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec12.pdf) | Тест №6 | *19 мая* | *26 мая в 18:00* |
 
 ## Содержание лекций
 
@@ -437,9 +439,15 @@ Bash и основные команды.
 
 # Контрольные мероприятия
 
-## Тесты по лекциям (12 штук)
+## Тесты по лекциям (6 штук)
 
-Тесты выполняются студентом в удобное ему время. Время прохождения теста не ограничивается. 
+- Всего будет 6 тестов
+- Каждый тест - по двум лекциям, распределение лекций по тестам - в таблице **Записи лекций и тесты**
+- Каждый тест - 10 вопросов (5 по одной лекции, 5 - по другой). Каждый вопрос стоит 1 балл, всего за один тест можно набрать 10 баллов
+- Тесты публикуются в определенные дни (по воскресеньям), согласно графику. На выполнение теста - 1 неделя (*дедлайн по тесту указан в таблице, также будет дублироваться объявлением*)
+- Каждый студент проходит тест только 1 раз
+- Результаты непосредственно после прохождения теста не публикуются, посмотреть правильные ответы нельзя.
+- **После закрытия теста** публикуются результаты и баллы за него, а также правильные ответы
 
 ## Техническое задание №1 (ТЗ1)
 
