@@ -1,4 +1,4 @@
-![image](https://github.com/demist/tp_hse/assets/7072212/4c54ca38-5b79-45ed-949e-c1c3c15929dc)![year][0] ![status][1] ![progress][2]
+![year][0] ![status][1] ![progress][2]
 
 **4 модуль, 2023/2024 учебный год, ВШЭ ВШБ ДБИ**
 
