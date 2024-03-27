@@ -34,7 +34,7 @@
 | 4 | CI/CD/CD | [YouTube](https://www.youtube.com/watch?v=I6NVeuzzSyY) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec4.pdf) | Тест №2 | *14 апреля* | *21 апреля в 18:00* |
 | 5 | Отладка ПО, ч.1: работа с ошибками ПО | [YouTube, 1/2](https://www.youtube.com/watch?v=6StbXboJJCg) [YouTube, 2/2](https://www.youtube.com/watch?v=HuYGaVWVJd0)| [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec5.pdf) | Тест №3 | *21 апреля* | *28 апреля в 18:00* |
 | 6 | Отладка ПО, ч.2: техники отладки | [YouTube](https://www.youtube.com/watch?v=0RHzG8SBM9U) [YouTube, дополнение](https://www.youtube.com/watch?v=xgDl2NX0mSI) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec6.pdf) | Тест №3 | *21 апреля* | *28 апреля в 18:00* |
-| 7 | Управление качеством ПО, ч.1 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
+| 7 | Управление качеством ПО, ч.1 | [YouTube](https://youtu.be/PAw5dwmfimg) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec7.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
 | 8 | Управление качеством ПО, ч.2 | | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec8.pdf) | Тест №4 | *28 апреля* | *5 мая в 18:00* |
 | 9 | Принципы проектирования ПО, ч.1 | [YouTube](https://www.youtube.com/watch?v=PMVgPAlZQGc) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec9.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
 | 10 | Принципы проектирования ПО, ч.2 | [YouTube](https://www.youtube.com/watch?v=ZgDWK9PGxuU) | [pdf-файл](https://github.com/demist/tp_hse/blob/main/slides/lec10.pdf) | Тест №5 | *12 мая* | *19 мая в 18:00* |
